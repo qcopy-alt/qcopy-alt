@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=wave&color=auto&height=200&section=header&text=qcopy-alt&fontSize=90&theme=dark" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5EDC11&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+qcopy-alt;Backend+Developer;coding4fun;Rust+%26+NuxtJS+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
