@@ -38,7 +38,7 @@
 ###  GitHub Metrics & Activity
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/qcopy-alt?template=classic&config.timezone=Europe%2FMoscow" alt="GitHub Metrics" />
+  <img src="https://streak-stats.demolab.com?user=qcopy-alt&theme=dark&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
 ---
